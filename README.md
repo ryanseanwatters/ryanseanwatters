@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ryanseanwatters
 - 👀 I’m interested in all things tech, current events, finance, health and fitness.
-- 🌱 I’m currently learning Swift
 - 📫 How to reach me ...
 - 📧 Email → ryan.sean.watters@gmail.com
 - 🖇 LinkedIn → https://www.linkedin.com/in/ryanseanwatters/
