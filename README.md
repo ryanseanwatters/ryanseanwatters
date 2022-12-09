@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @ryanseanwatters
-- 👀 I’m interested in all things tech, current events, finance, health and fitness.
-- 📫 How to reach me ...
-- 📧 Email → ryan.sean.watters@gmail.com
-- 🖇 LinkedIn → https://www.linkedin.com/in/ryanseanwatters/
-- 💻 Website → https://www.ryanseanwatters.com
+- 🖇 → https://www.linkedin.com/in/ryanseanwatters/
+- 💻 → https://www.ryanseanwatters.com
 
 <!---
 ryanseanwatters/ryanseanwatters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
